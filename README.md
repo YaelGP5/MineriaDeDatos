@@ -9,4 +9,6 @@
 
 [Ejercicios de Limpieza de datos](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Ej_Limpieza_Equipo2.ipynb)
 
+[Avance del PIA](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Avance1_PIA_Equipo2.ipynb)
+
 #Fase dos
