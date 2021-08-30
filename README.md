@@ -7,4 +7,6 @@
 
 [Ejercicios de python](https://github.com/YaelGarciaPartida/MineriaDeDatos/blob/main/Ej_Python_1797297.ipynb)
 
+[Ejercicios de Limpieza de datos](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Ej_Limpieza_Equipo2.ipynb)
+
 #Fase dos
