@@ -16,3 +16,8 @@
 #Fase dos
 
 [Avance del PIA parte 2](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/AvancePIA_II_Grupo001_2.ipynb )
+
+[Tarea parte 1](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Visualizacion_Equipo2.ipynb)
+
+
+[Tarea parte 2](Mineria-de-datos-/Visualizacion_Equipo2_Parte2.ipynb at main · calebmarentes10/Mineria-de-datos- (github.com))
