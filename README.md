@@ -24,4 +24,5 @@
 
 [Avance del PIA parte 2 corregido](https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Tecnicas%20de%20mineria_Equipo2.ipynb)
 
+[Notebook] (https://github.com/calebmarentes10/Mineria-de-datos-/blob/main/Notebook_Equipo2.ipynb)
 
